@@ -1,0 +1,3 @@
+ID: 12345678, Name: Nguyen Dinh Hieu ,Class:E05, Phone: 0906116647, Address: 33 , docngu , Ba Dinh , Hanoi
+ID: 12345679, Name: sy duc nguyen ,Class:e05, Phone: 09090990990, Address: 434 , jdsk , ff , roma
+ID: 123456710, Name: ivan soboto blood ,Class:e05, Phone: 0904300089, Address: 33 , hell , hell1 , hell2
